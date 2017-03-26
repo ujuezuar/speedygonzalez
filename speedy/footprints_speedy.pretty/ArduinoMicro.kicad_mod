@@ -1,0 +1,8 @@
+(module ArduinoMicro (layer F.Cu) (tedit 58CFBB06)
+  (fp_text reference REF** (at 11.06 -5.73) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value ArduinoMicro (at 10.81 -8.83) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
